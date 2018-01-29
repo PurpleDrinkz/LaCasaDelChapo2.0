@@ -27,7 +27,9 @@ void actualizar()
 
 }
 
-
+    
+    
+  
 
 void dibujar()
 {
